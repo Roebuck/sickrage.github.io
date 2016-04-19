@@ -1848,6 +1848,7 @@ STW (AU):Australia/Sydney
 Style (AU):Australia/Sydney
 style. NETWORK (UK):Europe/London
 Style:US/Eastern
+Style TV:Europe/London
 Sub:Europe/Helsinki
 SUN music:Asia/Kolkata
 SUN NEWS NETWORK (CA):Canada/Eastern
